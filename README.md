@@ -8,7 +8,6 @@ Pre-requisite for running this program
 ============================
 ```
 1. Install ElasticSearch and start ElasticSearch with the data downloaded from above
-   For example ./mongod --dbpath data/db
 2. Install Hadoop cluster for running MapReduce Job and start the cluster
 3. Install Spring Tool Suite because the program is written on Spring Data
 4. Install Maven
